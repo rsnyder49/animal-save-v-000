@@ -20,4 +20,8 @@ html {
 
 /* Write your solution here */
 
-@media only and (min-width:)
+@media only and (min-width: 400px) and (max-width: 1400px) {
+  #dolphin {
+    
+  }
+}
